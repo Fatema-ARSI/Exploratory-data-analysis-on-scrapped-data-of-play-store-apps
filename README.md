@@ -30,13 +30,13 @@ To understand the which app is the newest and oldest.
 
 How many times the app has been installed (after applying log transformation because data in the installs column has a broad range).
 
-<img src='newplot (1).png' width='300' height='300'>
+<img src='newplot(1).png' width='300' height='300'>
 
 With the correlation data, it is proved that updated and type of app i.e free or paid are positively correlated with the installation.
 
 Boxplot to show the relationship between the variables installs and type of app.
 
-<img src='newplot (2).png' width='300' height='300'>
+<img src='newplot(2).png' width='300' height='300'>
 
  In order to understand the sentiments of the reviewers, created the column sentiments where score below 3 consider as negative,score of 3 consider as neutral and above 3 consider as poitive.
 
