@@ -21,26 +21,26 @@ Following are the changes made:
 
 The following plot depicts the distribution of ratings.
 
-<img src='ratings.png' width='500' height='300'>
+<img src='rating.png' width='500' height='300'>
 
 
 To understand the which app is the newest and oldest.
 
-<img src='newplot.png' width='500' height='300'>
+<img src='newplot(3).png' width='500' height='300'>
 
 How many times the app has been installed (after applying log transformation because data in the installs column has a broad range).
 
-<img src='newplot(1).png' width='500' height='300'>
+<img src='newplot(5).png' width='500' height='300'>
 
-With the correlation data, it is proved that updated and type of app i.e free or paid are positively correlated with the installation.
+With the correlation data, it is proved that ratings and reviews of apps  are positively correlated with the installation.
 
-Boxplot to show the relationship between the variables installs and type of app.
+Barplot to show the relationship between the variables installs and ratings of app.
 
-<img src='newplot(2).png' width='500' height='300'>
+<img src='ratingscore.png' width='500' height='300'>
 
  In order to understand the sentiments of the reviewers, created the column sentiments where score below 3 consider as negative,score of 3 consider as neutral and above 3 consider as poitive.
 
-<img src='sentiments.png' width='500' height='300'>
+<img src='sentiment.png' width='500' height='300'>
 
 Se how many times reviers does not get the replies from the app developer.
 
